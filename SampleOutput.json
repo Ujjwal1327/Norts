@@ -1,0 +1,37 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [{
+            "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        { "source": { "id": "cbc-news", "name": "CBC News" }, "author": "CBC News", "title": "​It’s been a century since Canadians elected their first woman MP. How far have we come?", "description": "The centennial of Agnes Macphail's election as Canada's first female member of Parliament is a moment to reflect on how far women have come in Canadian politics and how far they still have to go. She shattered one glass ceiling. Others stayed intact for decad…", "url": "https://www.cbc.ca/newsinteractives/features/100-years-women-in-parliament", "urlToImage": "https://www.cbc.ca/newsinteractives/content/images/CP218178-smaller.jpg", "publishedAt": "2021-12-05T21:22:22.2012943Z", "content": "Im not interested in making a career of being a former prime minister, she said. But its interesting how many people assume that I was probably the shortest-serving prime minister and there were two … [+1063 chars]" },
+
+        { "source": { "id": "google-news-au", "name": "Google News (Australia)" }, "author": "Broede Carmody", "title": "Australia news LIVE: TGA provisionally approves Pfizer for children aged 5 and up; NSW’s Omicron cases expected to grow", "description": "School-aged children are on track to receive the coronavirus jab before classes return next year, speculation is mounting that former NSW premier Gladys Berejiklian will announce a tilt at federal politics as soon as today and Victoria says it won’t pursue an…", "url": "https://www.smh.com.au/national/australia-news-live-tga-provisionally-approves-pfizer-for-children-aged-5-and-up-nsw-s-omicron-cases-expected-to-grow-20211206-p59f19.html", "urlToImage": "https://static.ffx.io/images/$zoom_0.1865%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/b7195f98f103b5b4b70d29f02d5c28b8d3f098ea", "publishedAt": "2021-12-05T20:48:11+00:00", "content": "The Liberal Party is keeping its options open, its vice president says, as former NSW premier Gladys Berejiklian considers running in the federal seat of Warringah.\r\nI think in politics anything is p… [+1396 chars]" },
+        { "source": { "id": "independent", "name": "Independent" }, "author": "Cat Smith", "title": "Keir Starmer isn’t doing enough to fight for democracy and defend it from Tory attempts to weaken it", "description": "Those of us who believe in a free and fair politics must stand up and be counted wherever we see an affront to democratic norms. That’s why I left Labour’s front bench", "url": "http://www.independent.co.uk/voices/keir-starmer-labour-democracy-boris-johnson-tories-b1970117.html", "urlToImage": "https://static.independent.co.uk/2021/12/01/12/Keir%20Starmer%20pmqs.png?width=1200&auto=webp&quality=75", "publishedAt": "2021-12-05T15:09:20Z", "content": "Last week I left my role championing democracy in the shadow cabinet. But not because I have any less passion and fire for democracy. In fact, having spent five years in the post after being appointe… [+3634 chars]" }, { "source": { "id": "usa-today", "name": "USA Today" }, "author": null, "title": "Daily Briefing", "description": "The day's top stories, from sports to movies to politics to world events.", "url": "https://profile.usatoday.com/newsletters/daily-briefing/", "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg", "publishedAt": "2021-08-15T15:35:07+00:00", "content": "The day's top stories, from sports to movies to politics to world events." },
+        { "source": { "id": "the-washington-times", "name": "The Washington Times" }, "author": "The Washington Times http://www.washingtontimes.com", "title": "Latest Quizzes", "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.", "url": "https://www.washingtontimes.com/quiz/", "urlToImage": null, "publishedAt": "2021-02-10T03:52:37.2719772Z", "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]" }, { "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" }, "author": null, "title": "Congresswoman Nita Lowey: I am proud to stand with Israel", "description": "Gantz: Security of Israel is above politics; PA: This is a crime.", "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595", "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812", "publishedAt": "2019-11-13T04:41:00Z", "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]" }
+    ]
+}
+
+
+https: //newsapi.org/v2/everything?q=bitcoin&apiKey=43ed29a5f12f45ccab6e4a27444284d8
+    https: //newsapi.org/v2/top-headlines?country=us&apiKey=43ed29a5f12f45ccab6e4a27444284d8
+
+
+    43e d29a5f12f45ccab6e4a27444284d8
